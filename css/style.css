@@ -1002,4 +1002,31 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+.column-container{
+  padding: 5px;
+  margin-top: 35px;
+  /* border-style: groove; */
+  border-color: #0a6bbb;
+  border-width: 5px;
+  margin-left: 100px;
+  border-radius: 10px;
+}
+.profile{
+  display: flex;
+  /* border-style: solid; */
+  border-color: #1f1f1f;
+  border-width: 5px;
+  padding: 0px;
+  margin-top: 0px;
+}
+.column_image{
+  margin-right: 100px;
+  margin-top: auto;
+  padding-top: 0px;
+  min-width: 350px;
+}
+.column_profile{
+  margin-top: 50px;
+}
 /*# sourceMappingURL=style.css.map */
